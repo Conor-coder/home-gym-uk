@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://conor-coder.github.io/home-gym-uk/sitemap.xml
