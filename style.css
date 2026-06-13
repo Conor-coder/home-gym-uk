@@ -173,11 +173,12 @@ nav.scrolled {
     font-weight: 800;
     margin-bottom: 1.5rem;
     line-height: 1.1;
+    color: #ffffff;
 }
 
 .hero p {
     font-size: clamp(1.1rem, 2vw, 1.3rem);
-    color: var(--text-muted);
+    color: rgba(255, 255, 255, 0.9);
     margin-bottom: 2rem;
 }
 
